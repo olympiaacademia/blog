@@ -1,12 +1,12 @@
 # Site settings
-title: Blog - technology and science at TheReviewIndex
-description: "A blog for sharing thoughts on technology, science and insights at TheReviewIndex."
-url: "http://www.thereviewindex.github.io/blog"
-ogimage: "img/default-ogimage.png"
+title: Latest Blogs &mdash; Olympia Academia
+description: "Olympia Academia, amu science society, boolean autocrats, amu, aligarh muslim university, amu club, amu coders"
+url: "https://olympiaacademia.github.io/blogs/"
+ogimage: "https://olympiaacademia.github.io/apple-touch-icon.png"
 author:
-  name: "The Review Index"
-  email: "root@thereviewindex.com"
-  url: "https://thereviewindex.com"
+  name: "Olympia Academia"
+  email: "olymp.acad@gmail.com"
+  url: "https://olympiaacademia.github.io"
 
 
 # Build settings
