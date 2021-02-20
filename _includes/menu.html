@@ -2,6 +2,9 @@
 	<div id="nav-list">
 		<a href="{{ site.baseurl }}/">Home</a>
 
+    <!-- Nav links -->
+	  {% include link.html %}
+
 		<!-- Nav pages -->
 	  {% for page in site.pages %}
 	    {% if page.layout == "page" %}
@@ -9,8 +12,7 @@
 	    {% endif %}
 	  {% endfor %}
     
-    <!-- Nav links -->
-	  {% include link.html %}
+
 
 	</div>
   
