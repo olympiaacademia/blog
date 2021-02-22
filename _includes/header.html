@@ -1,26 +1,42 @@
-<header id="header" class="parent justify-spaceBetween">
-  <div class="inner w100 relative">
-    <span class="f-left">  
-      <a href="https://olympiaacademia.github.io/">
-        <h1>
-          Olympia<span>Academia</span>
-        </h1>
-      </a>
-    </span>
-    <span id="nav-links" class="absolute right bottom">
-      <!-- Nav pages -->
-	    {% for page in site.pages %}
-	      {% if page.layout == "page" %}
-	        <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.title }}">{{ page.title }}</a>
-	      {% endif %}
-	    {% endfor %}
-      
-      <!-- Nav links -->
-	    {% include link.html %}
+<header id="header">
 
-    </span>
-  </div>
+	<!--Navbar Starts-->
+<nav class="shadow-none navbar navbar-expand-lg navbar-light fixed-top" role="navigation"  style="background-color: whitesmoke; scroll-margin-bottom: 50px;">
+    <!-- Container wrapper -->
+    <div class="container-fluid">
+      <!-- Toggle button -->
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-mdb-toggle="collapse"
+        data-mdb-target="#navbarRightAlignExample"
+        aria-controls="navbarRightAlignExample"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <i class="fas fa-bars"></i>
+      </button>
+      <span class="navbar-brand mb-0 h1 font"><img src="images/logo_title.png" style="width: 40%; maxwidth:20%;height: auto;max-height: 40%;" class="img-fluid"  alt="Olympia Academia full logo."/></span>
+      <!-- Collapsible wrapper -->
+      <div class="collapse navbar-collapse" id="navbarRightAlignExample">
+        <!-- Left links -->
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item active"><a class="nav-link active" href="index.html">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/company/olympiaacademia">Blogs</a></li>
+            <li class="nav-item"><a class="nav-link" href="resources.html">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+            <li class="nav-item"><a class="nav-link" href="committee.html">Committee</a></li>
+            <li class="nav-item"><a class="nav-link" href="#"></a></li>
+        </ul>
+        <a href="join.html" role="button" class="btn btn-danger btn-md btn-rounded">Join</a>
+        <!-- Left links -->
+      </div>
+      <!-- Collapsible wrapper -->
+    </div>
+    <!-- Container wrapper -->
+  </nav>
+<!--Navbar Ends-->
+  
 </header>
-
-
 
