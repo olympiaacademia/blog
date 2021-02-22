@@ -1,16 +1,8 @@
-## About
+# Olympia Academia
+This is the official repo of Olympia Academia's blog page acting as a GitHub site.
 
-[TheReviewIndex blog](https://thereviewindex.com/blog), made with Jekyll.
+The Olympia Academia is the Aligarh Muslim University Science Society, founded in 2019. Our purpose is to promote enjoyment and understanding of mathematics, physics, statistics and computer science for all students, and provide opportunities for cooperation and social activities.
 
-## Template used
-
-[Monochrome](https://github.com/dyutibarma/monochrome)
-
-
-## Author
-
-- TheReviewIndex
-- Web site: [Review Aggregation and Summary Site for India - TheReviewIndex](https://thereviewindex.com)
-
-## License
-Released under [MIT License](license.md).
+Olympia Academia is the Aligarh Muslim University Mathematical Science society, founded in 2019 by the undergraduate students of maths and physics disciplines. Our purpose is to promote a deeper understanding of mathematical sciences so that students can come to appreciate the subtle but lucid beauty of nature as well as appreciate the abstract concepts of mathematics, which will allow them to fully access the entire spectrum of the mathematical toolbox which has applications in areas such as Data Science etc Computer Science, Stats, Data Analysis, Biology, Economics, Actuarial Sciences, etc. Its scope ranges from engineering to black holes. Along with all this, we aim to provide the right kind of environment and to act as a platform for sharing resources.
+We are also aiming to organize sessions by various professors, alumni, fellow students on trending topics in the field of science and technology frequently which would be a great source of motivation for participants and would act as a pool for ideas and innovation. Although these talks will be aimed at a specific target audience from the natural science department, they can be quite valuable for others too.
+Our society would also be organizing social and cultural events for natural science students which would further help the students to get acquainted with each other, the events include Fresher's squash right at the start of October. Further in, we have our Problems Drive.
