@@ -14,5 +14,3 @@ fields:
 - type: text
   name: duration
   label: duration
-pages:
-- "./_posts/gfg.md"
