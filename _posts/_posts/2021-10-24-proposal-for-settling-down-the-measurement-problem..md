@@ -1,6 +1,8 @@
 ---
 title: 'Proposal for settling down the measurement problem. '
-description: ''
+description: Von Neumann, Schrodinger, Dirac, Heisenberg, et al. All of them struggled
+  to make sense of this phenomenon which directly contradicted our day to day boolean
+  mundane intuition about the world around us and the structure of reality in general...
 header: Von Neumann, Schrodinger, Dirac, Heisenberg, et al. All of them struggled
   to make sense of this phenomenon which directly contradicted our day to day boolean
   mundane intuition about the world around us and the structure of reality in general...
