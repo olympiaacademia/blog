@@ -1,0 +1,22 @@
+---
+title: 'Proposal for settling down the measurement problem. '
+description: ''
+header: Von Neumann, Schrodinger, Dirac, Heisenberg, et al. All of them struggled
+  to make sense of this phenomenon which directly contradicted our day to day boolean
+  mundane intuition about the world around us and the structure of reality in general...
+duration: 7 minutes
+
+---
+The measurement problem, as we know of now, is one of the most fundamental problem of quantum mechanics if not “the” most important problem. 
+
+The measurement problem actually dates back to the very inception of the quantum mechanical ideas which were proposed by the founding father of QM themselves! 
+
+Von Neumann, Schrodinger, Dirac, Heisenberg, et al. All of them struggled to make sense of this phenomenon which directly contradicted our day to day boolean mundane intuition about the world around us and the structure of reality in general. 
+
+It all started with that famous/infamous double slit experiment performed by Thomas Young (the famous British polymath) in the year of 1801.  Now, what was a - typical of this experiment was that the results were completely flipped to what was commonly/naively expected at that time and place. What was observed on that screen of that interferometer was the shape of an interference pattern which suggests that the electrons must have passed through both the slits at the same time, simultaneously which is a violation of one of the maxims of the special theory of relativity that nothing can travel faster than light, not even information, but the fact that there was no time lag between the passing of the same electrons from the two slits is indeed quite interesting!  But only waves can exhibit such kind of interference pattern, you say. While it is indeed true that Only waves exhibit the interference phenomenon and not classical particles such as cars, stars or any other macroscopic objects. In the case of macroscopic objects, the interference is not significant enough to be measured or detected. Classical particles are bounded in their own potential wells which constrains their behaviour to that of a localised particle whereas this is not true for objects which belong to the set of the quantum realm which unlike the classical particles exhibit a non local phenomenon therefore, behave as that of a wave which in turn explains the interference phenomenon. This clearly differentiates the two domain of reality, and establishes the impossibility of classical particle showing interference pattern. This leads to the conclusion that the electrons must have behaved like that of a wave while passing through the two slits. Naturally, this leads to the verification of this claim. In the case of quantum particles, if one of the detector is removed, the consequences remain unchanged and still there would be no interference phenomenon. And thus was how the wave particle duality of matter was established, conclusively. 
+
+My colleague Mr. Amal Pushp (who by the way is also the youngest Indian Fellow of the royal astronomical society, London) and I have tried to establish a causal relationship between the observer’s consciousness who is measuring the stream of electrons/particles going through the double slit(s) and the collapse of the wave function of the probability waves, which the particles exhibit according to the Heisenberg’s uncertainty principle. Such causal relationship is why so important you ask? Well, in such regimes such as quantum mechanics, the very notion of determinism collapses. Determinism was the foundation of the entire enterprise of modern science since the time of Sir Isaac Newton  a.k.a Jehovah Sanctus Unus himself (see : Newton’s clockwork universe) from the age of enlightenment. We build our physical models based on such deterministic foundations. The very dawn of quantum mechanics eclipsed deterministic notions of reality and replaced it with probabilistic models. Determinism is based upon the notion of causality which in turns is based on the logic of induction as opposed to deduction. 
+
+Please find the published paper which I have attached, therein you will find the precise scientific underpinnings of how exactly all of this was brought about. 
+
+Shad Azmi, (President, Olympia Academia).
